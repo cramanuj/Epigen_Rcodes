@@ -1,4 +1,5 @@
-R and C++ codes for all the analyses from the manuscript.
+R and C++ codes for all the analyses from the manuscript
+==========================================================
 
 ##### C++ files######
 
